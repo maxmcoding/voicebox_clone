@@ -1,5 +1,6 @@
 # Dependencies
 node_modules/
+huggingface-models*
 bun.lockb
 __pycache__/
 *.py[cod]
